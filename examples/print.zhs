@@ -1,0 +1,7 @@
+var somesentence = "An anomaly has murdered a family, with a shoe .";
+
+print(somesentence);
+
+var integer = 123455;
+var float = 1.23456;
+print(integer,float);
